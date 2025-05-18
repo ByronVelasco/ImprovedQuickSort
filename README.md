@@ -39,7 +39,7 @@ The repository is organized into the following components:
 - **`2 Improved Versions` Folder**:  
   This folder contains the implementation of algorithms `quick_sort`, `random_quicksort`, `tree_random_quicksort` and `median_quick_sort` and their performance comparison with each other. It includes an experiment measuring and analyzing their execution times.
 
-- **`img/` Folder**:  
+- **`img` Folder**:  
   Stores the output images generated during experimentation.  
 
 - **`project_functions.py` Python Script**:  
