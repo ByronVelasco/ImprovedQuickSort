@@ -73,4 +73,6 @@ This project follows the structure and theoretical foundations presented in the 
   [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
   You may reuse and adapt it for non-commercial purposes with attribution.
 
+---
+
 © 2025 Byron Velasco
